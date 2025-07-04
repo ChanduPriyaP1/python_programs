@@ -30,4 +30,4 @@ res=a<b
 res_1=a>b
 res_2=a!=b
 res_3=a==b
-print(res res_1 res_2 res_3)
+print(res, res_1, res_2, res_3)
