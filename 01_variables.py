@@ -7,4 +7,4 @@ d= "This\'s python program"
 print(d)
 # This is a List
 c= ["sindu","siva","priya","kumar"]
-print(c type(c))
+print(c, type(c))
