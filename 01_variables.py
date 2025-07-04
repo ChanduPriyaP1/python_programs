@@ -8,3 +8,6 @@ print(d)
 # This is a List
 c= ["sindu","siva","priya","kumar"]
 print(c, type(c))
+# Tuples
+test_tuples = ("java","c++","c#")
+print(test_tuples)
