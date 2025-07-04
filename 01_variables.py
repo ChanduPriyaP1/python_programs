@@ -12,3 +12,6 @@ print(c, type(c))
 test_tuples = ("java","c++","c#")
 print(test_tuples)
 print(type(test_tuples))
+# Dictionary
+test_dict = {"a":1, "b":2, "c":3}
+print(test_dict)
