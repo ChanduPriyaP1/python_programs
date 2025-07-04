@@ -39,6 +39,6 @@ b = False
  
 res=a and b
 res_1=a or b
-res_2=a not b
-
-print(res, res_1, res_2)
+res_2= not b
+res_3= not b
+print(res, res_1, res_2, res_3)
