@@ -2,6 +2,9 @@ a=40
 b=10
 print("Printing value Of A is:", a)
 print("Printing value Of B is:", b)
-
-d= "this\'s is python program"
+# This's python program
+d= "This\'s python program"
 print(d)
+# This is a List
+c= ["sindu","siva","priya","kumar"]
+print(c type(c))
